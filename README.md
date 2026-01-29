@@ -3,7 +3,8 @@
 Welcome to my portfolio repository!  
 This repo showcases my projects, skills, and experience as a **Software Developer / Full-Stack Engineer / Designer**.
 
-🔗 **Live Portfolio:**   https://portfolio-taupe-xi-haojutu7pj.vercel.app/
+🔗 **Live Portfolio:** https://portfolio-taupe-xi-haojutu7pj.vercel.app/
+</br>
 📫 **Contact:** https://www.linkedin.com/in/siddhi-joshi05
 
 ---
